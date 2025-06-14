@@ -1,4 +1,4 @@
-# collection-of-web-projects - Sowmya Yamani
+# mini webworks - Sowmya Yamani
 
 This repository contains 5 zipped web development projects submitted for assignment.
 
